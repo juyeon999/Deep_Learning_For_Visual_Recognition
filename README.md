@@ -21,3 +21,13 @@ Make modules such as Convolutional layer forward, backward, batchnormalization a
 ### 4.1 BN (Batchnormalization)
  - BN
  - spatial BN
+
+## 5. VAE
+ - pytorch autograd and nn
+ 
+## 6. GAN
+
+## 7. Motion captioning with RNNs and LSTMs
+### 7-1. RNNs
+### 7-2. LSTM
+ - https://dgkim5360.tistory.com/entry/understanding-long-short-term-memory-lstm-kr
