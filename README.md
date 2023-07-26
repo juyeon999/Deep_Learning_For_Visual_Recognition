@@ -1,4 +1,4 @@
-# Deep_Learning_For_Visual_Recognition
+# Deep_Learning_For_Visual_Recognition (Pytorch)
 Deep Learning For Visual Recognition (STA9131)
 
 ## 1. KNN
